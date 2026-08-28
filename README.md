@@ -339,7 +339,8 @@ I'm always interested in discussing:
 * Practical engineering approaches
 
 If you're building something interesting, exploring a difficult technical problem, or experimenting with the next generation of software engineering, I'd be happy to exchange ideas.
-
+Email: trulyvimal@gmail.com
+linkedin: [www.linkedin.com/trulyvimal](https://www.linkedin.com/in/trulyvimal/)
 ---
 
 ### *Build for today. Design for tomorrow. Keep learning.*
